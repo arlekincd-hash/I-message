@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{51189FA6-F5FD-4B15-A1BE-5FC8D2FCE92C}'];loadHandler&&loadHandler(0, '<div id="spr0_b3e244d5"><div id="spr1_b3e244d5" class="kern slide"><img id="img1_b3e244d5" src="data/img2.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_b3e244d5" class="kern slide"><div id="spr3_b3e244d5" style="left:-6.693px;top:-0.945px;"><img id="img0_b3e244d5" src="data/img1.jpg" width="1293" height="722" alt="Изображение выглядит как текст, книга, снимок экрана, дизайн\
+\
+Контент, сгенерированный ИИ, может содержать ошибки." style="left:0.193px;top:-0.055px;"/></div><div id="vd0_b3e244d5"></div></div></div>', '{"s":[]}');})();
