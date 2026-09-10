@@ -1,0 +1,3 @@
+(function(){var loadHandler=window['sl_{51189FA6-F5FD-4B15-A1BE-5FC8D2FCE92C}'];loadHandler&&loadHandler(2, '<div id="spr0_b3e2538b"><div id="spr1_b3e2538b" class="kern slide"><img id="img1_b3e2538b" src="data/img2.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_b3e2538b" class="kern slide"><div id="vd0_b3e2538b" style="left:0px;top:-8.002px;"></div><div id="spr4_b3e2538b" style="left:-13.386px;top:-10.325px;"><img id="img0_b3e2538b" src="data/img15.jpg" width="1293" height="722" alt="Изображение выглядит как человек, Человеческое лицо, стена, одежда\
+\
+Контент, сгенерированный ИИ, может содержать ошибки." style="left:0.193px;top:-0.055px;"/></div></div></div>', '{"s":[]}');})();
